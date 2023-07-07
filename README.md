@@ -38,8 +38,7 @@ Joomla extensions and templates must be GNU GPLv2 for the PHP code.
 Communities come in all shapes and sizes, and more than one community might be pertinent (e.g., keep in mind your company if you work for one). The examples above are very well established. If the community you’re building a project for doesn’t have set-in-stone licensing traditions, or you don’t see your project as part of any particular community, that’s fine: make your own choice of an open source license.
 
 ## Badge
-
-MIT #F7DF1E #4479A1 #2C2255
+[![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)](https://www.python.org/)
 
 
 

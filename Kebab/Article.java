@@ -2,7 +2,12 @@ package Kebab;
 
 public class Article {
 
-	   private int id;
+	   @Override
+	public String toString() {
+		return "Article [id=" + id + ", libelle=" + libelle + ", prix=" + prix + "]";
+	}
+
+	private int id;
 	   private String libelle;
 	   private double prix;
 	   public int getid() {

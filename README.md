@@ -17,6 +17,8 @@ Change the price of all the items
 
 Add promotions
 
+DAO and DTO
+
 ## Installation
 
 Connecting a mySQL database with a Java console database thanks to DriverManager Requires a driver Installation in the Path Module Allows connection with JDBC

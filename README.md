@@ -9,6 +9,8 @@ I did a CRUD in Java
 
 I understood the advantages of DAO and DTO
 
+![alt uml](https://cdn.discordapp.com/attachments/1126805467365126175/1128346131986907257/image.png)
+
 ## Installation
 
 Connecting a mySQL database with a Java console database thanks to DriverManager Requires a driver Installation in the Path Module Allows connection with JDBC

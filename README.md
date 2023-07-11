@@ -5,9 +5,21 @@
 My database created on Sql communicates with my Article file which is in private.
 My class communicates only with my main Java.
 
+Edit a receipt 
+
+Delete an article
+
+Add an article
+
+Modify an article
+
+Change the price of all the items
+
+Add promotions
+
 ## Installation
 
-Connecting a mySQL database with a Java conseole database thanks to DriverManager Requires a driver Installation in the Path Module Allows connection with JDBC
+Connecting a mySQL database with a Java console database thanks to DriverManager Requires a driver Installation in the Path Module Allows connection with JDBC
 
 Addition of the .jar file
 

@@ -5,19 +5,9 @@
 My database created on Sql communicates with my Article file which is in private.
 My class communicates only with my main Java.
 
-Edit a receipt 
+I did a CRUD in Java
 
-Delete an article
-
-Add an article
-
-Modify an article
-
-Change the price of all the items
-
-Add promotions
-
-DAO and DTO
+I understood the advantages of DAO and DTO
 
 ## Installation
 
